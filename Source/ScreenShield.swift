@@ -42,7 +42,7 @@ public class ScreenShield {
         
         // Add a label to the blur view
         let label = UILabel()
-        label.text = "Screen recording not allowed"
+        label.text = "Защита от записи видео"
         label.font = UIFont.boldSystemFont(ofSize: 20)
         label.textColor = .black
         label.translatesAutoresizingMaskIntoConstraints = false
